@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GPL-3.0-or-later"
+mixins=[{config="dmzkiaddon.mixins.json"}]
+
+[[mods]]
+modId="dmzkiaddon"
+version="1.0.0"
+displayName="DMZ Ki Attacks Addon"
+authors="carlosn2300k"
+credits="Special thanks to Facub8 and InmortalPx for their support and help during the development of this addon."
+logoFile="logo.png"
+displayURL=""
+
+description='''
+Adds custom Ki attacks for DragonMineZ players.
+
+Features:
+• Custom Ki techniques
+• Designed for DragonMineZ
+• 16 Ki Techniques
+'''
+
+[[dependencies.dmzkiaddon]]
+modId="dragonminez"
+mandatory=true
+versionRange="[2.0.1,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.dmzkiaddon]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dmzkiaddon]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

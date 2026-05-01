@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dmzkiaddon.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "dmzkiaddon.refmap.json",
+  "mixins": [
+    "MastersSkillsScreenMixin",
+    "SkillsConfigMixin",
+    "KiWaveEntityMixin",
+    "KiLaserEntityMixin"
+  ],
+  "client": [
+    "UtilityMenuScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

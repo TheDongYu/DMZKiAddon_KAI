@@ -1,0 +1,194 @@
+{
+  "cbeam1s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam1s",
+        "stream": false
+      }
+    ]
+  },
+  "cbeam2s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam2s",
+        "stream": false
+      }
+    ]
+  },
+  "cbeam3s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam3s",
+        "stream": false
+      }
+    ]
+  },
+  "cbeam4s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam4s",
+        "stream": false
+      }
+    ]
+  },
+  "cbeam5s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam5s",
+        "stream": false
+      }
+    ]
+  },
+  "cbeam6s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam6s",
+        "stream": false
+      }
+    ]
+  },
+  "cbeam7s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cbeam7s",
+        "stream": false
+      }
+    ]
+  },
+  "fbeam1s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:fbeam1s",
+        "stream": false
+      }
+    ]
+  },
+  "fbeam2s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:fbeam2s",
+        "stream": false
+      }
+    ]
+  },
+  "fbeam3s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:fbeam3s",
+        "stream": false
+      }
+    ]
+  },
+  "fbeam4s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:fbeam4s",
+        "stream": false
+      }
+    ]
+  },
+  "fbeam5s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:fbeam5s",
+        "stream": false
+      }
+    ]
+  },
+  "cdisk1s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cdisk1s",
+        "stream": false
+      }
+    ]
+  },
+  "cdisk2s": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:cdisk2s",
+        "stream": false
+      }
+    ]
+  },
+  "disckill": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:disckill",
+        "stream": false
+      }
+    ]
+  },
+  "disc_fire": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:disc_fire",
+        "stream": false
+      }
+    ]
+  },
+  "bigbang_fire": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:bigbang_fire",
+        "stream": false
+      }
+    ]
+  },
+  "deathball_charge": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:deathball_charge",
+        "stream": false
+      }
+    ]
+  },
+  "deathball_fire": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:deathball_fire",
+        "stream": false
+      }
+    ]
+  },
+  "finalflash_charge": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:finalflash_charge",
+        "stream": false
+      }
+    ]
+  },
+  "kiball_release": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:kiball_release",
+        "stream": false
+      }
+    ]
+  },
+  "basicbeam_fire": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:basicbeam_fire",
+        "stream": false
+      }
+    ]
+  },
+  "blast": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:blast",
+        "stream": false
+      }
+    ]
+  },
+  "hamehafire": {
+    "sounds": [
+      {
+        "name": "dmzkiaddon:hamehafire",
+        "stream": false
+      }
+    ]
+  }
+}
